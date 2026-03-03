@@ -1,19 +1,39 @@
-# 👋 ¡Hola! Soy Melanie 👋
+# ¡Hola! Soy Melanie 👋
 
-Soy estudiante de **Ingeniería Industrial en la UTN** y estoy finalizando mi carrera en **Data Analytics**. 
-Mi objetivo es unir la visión de procesos industriales con el poder de los datos para generar eficiencia.
+### 📊 Data Analyst | ⚙️ Estudiante de Ingeniería Industrial (UTN)
+
+Soy una apasionada por la optimización de procesos y la eficiencia operativa. Mi objetivo es unir la visión sistémica de la ingeniería con el poder analítico de los datos para generar soluciones estratégicas.
+
+---
 
 ### 🛠️ Tecnologías y Herramientas
-- **Análisis de Datos:** SQL, Power BI (DAX), Python (Pandas, NumPy).
-- **Ingeniería:** Optimización de procesos, Mejora continua, Gestión de calidad.
-- **Hardware:** Armado y reparación de PC.
+
+| Categoría | Herramientas |
+| :--- | :--- |
+| **Análisis de Datos** | ![SQL](https://img.shields.io/badge/SQL-00758F?style=flat&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **Librerías Python** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
+| **Ingeniería** | Optimización de procesos, Mejora continua (Lean), Gestión de calidad |
+| **Hardware** | Diagnóstico, Armado y Reparación de PC |
+
+---
 
 ### 🚀 Proyecto Destacado
-- **[Análisis Estadístico NBA]([LINK_A_REPO_NBA](https://github.com/Mel-Lopez21/NBA_Analisis_PFinal)):** Un análisis profundo sobre eficiencia de equipos y jugadores utilizando Python y visualización de datos.
+
+#### 🏀 [Análisis Estadístico NBA](TU_LINK_DEL_REPO_ACA)
+*Un análisis profundo sobre eficiencia de equipos y jugadores utilizando Python y visualización de datos.*
+- **Tech Stack:** Python (Pandas, Matplotlib), SQL, Power BI.
+- **Enfoque:** Limpieza de datos (ETL) y creación de dashboards para la toma de decisiones.
+
+---
 
 ### 📫 Conectemos:
-- [LinkedIn]([LINK_DE_LINKEDIN](https://www.linkedin.com/in/lopezchmelanie21/))
-- Email: [[EMAIL](https://www.linkedin.com/in/lopezchmelanie21/)]
+
+- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/lopezchmelanie21/)
+- 📧 **Email:** [tuemail@ejemplo.com](lopez.melanie.eve21@gmail.com)
+- 📍 **Ubicación:** Buenos Aires, Argentina
+
+---
+
 
 <!--
 **Mel-Lopez21/Mel-Lopez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
