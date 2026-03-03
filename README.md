@@ -2,7 +2,7 @@
 
 ### 📊 Data Analyst | ⚙️ Estudiante de Ingeniería Industrial (UTN)
 
-> "Estudiante de 4.º año de **Ingeniería Industrial en la UTN**, con una fuerte inclinación hacia la mejora continua y la eficiencia operativa. Mi paso por la planta en **AST-PRA** me permitió entender que los datos son la pieza clave para optimizar cualquier proceso. Hoy, uno esa visión sistémica con herramientas técnicas para transformar datos en decisiones estratégicas."
+> Estudiante de 4.º año de **Ingeniería Industrial en la UTN**, con una fuerte inclinación hacia la mejora continua y la eficiencia operativa. Mi paso por la planta en **AST-PRA** me permitió entender que los datos son la pieza clave para optimizar cualquier proceso. Hoy, uno esa visión sistémica con herramientas técnicas para transformar datos en decisiones estratégicas.
 
 Soy una apasionada por la optimización de procesos y la eficiencia operativa. Mi objetivo es unir la visión sistémica de la ingeniería con el poder analítico de los datos para generar soluciones estratégicas.
 
