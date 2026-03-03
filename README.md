@@ -19,7 +19,7 @@ Soy una apasionada por la optimización de procesos y la eficiencia operativa. M
 
 ### 🚀 Proyecto Destacado
 
-#### 🏀 [Análisis Estadístico NBA](TU_LINK_DEL_REPO_ACA)
+#### 🏀 [Análisis Dinastía y Dependencia NBA](https://github.com/Mel-Lopez21/NBA_Analisis_PFinal)
 *Un análisis profundo sobre eficiencia de equipos y jugadores utilizando Python y visualización de datos.*
 - **Tech Stack:** Python (Pandas, Matplotlib), SQL, Power BI.
 - **Enfoque:** Limpieza de datos (ETL) y creación de dashboards para la toma de decisiones.
@@ -28,8 +28,8 @@ Soy una apasionada por la optimización de procesos y la eficiencia operativa. M
 
 ### 📫 Conectemos:
 
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/lopezchmelanie21/)
-- 📧 **Email:** [tuemail@ejemplo.com](lopez.melanie.eve21@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/lopezchmelanie21/](https://www.linkedin.com/in/lopezchmelanie21/)
+- 📧 **Email:** [lopez.melanie.eve21@gmail.com](lopez.melanie.eve21@gmail.com)
 - 📍 **Ubicación:** Buenos Aires, Argentina
 
 ---
